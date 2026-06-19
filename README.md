@@ -641,8 +641,10 @@ python tools/pdf_translate_watcher.py --set-pdf2zh-path
 
 > 💡 **声明**：所有 AI 生成的代码均经过人工 Review，基础算法设计（灵感来源、路网简化策略、环路筛选逻辑）由本人完成。
 
+---
 
 ## 📄 License
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
 ```
+---
