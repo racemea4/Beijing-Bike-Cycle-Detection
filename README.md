@@ -73,7 +73,7 @@ Beijing-Bike-Cycle-Detection/
 │   ├── generate_osm_like_network.py # 模拟OSM数据生成
 │   └── download_city_roads.py       # 城市道路预下载
 │
-├── data/                            # 用户数据存放位置
+├── data/                            # 数据存放位置（包含英文论文样例）
 ├── output/                          # 输出结果
 │
 └── tools/                           # 附录：辅助工具
